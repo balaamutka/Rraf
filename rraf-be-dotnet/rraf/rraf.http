@@ -1,0 +1,6 @@
+@rraf_HostAddress = http://localhost:5227
+
+GET {{rraf_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
